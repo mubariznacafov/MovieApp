@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
-import "./app.css";
+import "./App.css";
 import SearchIcon from "./search.svg";
-
 import MovieCard from "./components/MovieCard";
 
 const App = () => {
